@@ -1,4 +1,6 @@
 # weather-app
+<a href="https://heartfelt-flan-27f850.netlify.app/" target="_blank">LIVE DEMO</a>
+![image](codemonzy.com/HavaDurumu.png)
 
 ## Project setup
 ```
