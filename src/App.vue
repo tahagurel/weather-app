@@ -110,7 +110,7 @@
   }
   .searchButton {
     width: 110px;
-    height: 59px;
+    height: 55px;
     font-size: 20px;
     font-weight: bold;
     background: #FEFEFE;
@@ -186,6 +186,7 @@
   }
   .inputButtonWrapper {
     display: flex;
+    align-items: end;
   }
   .title{
     font-size: 40px;
