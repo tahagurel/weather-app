@@ -110,7 +110,7 @@
   }
   .searchButton {
     width: 110px;
-    height: 55px;
+    height: 59px;
     font-size: 20px;
     font-weight: bold;
     background: #FEFEFE;
